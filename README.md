@@ -1,6 +1,6 @@
 ```markdown
 # Spring Boot with Thymeleaf Web
-
+```
 This is a simple Spring Boot project that demonstrates how to use Thymeleaf for server-side HTML rendering.
 
 ## Prerequisites
@@ -48,7 +48,7 @@ The main files and directories in this project are as follows:
 
 - `src/main/java`: Contains Java source code
   - `com.example.thymleaf`: Package for application code
-    - `HomeController.java`: Main Spring Boot application class
+    - `DemoApplication.java`: Main Spring Boot application class
     - `controllers`: Package for controller classes
       - `HomeController.java`: Controller for handling requests
 - `src/main/resources`: Contains application properties and Thymeleaf templates

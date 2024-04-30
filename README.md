@@ -7,7 +7,7 @@ This is a simple Spring Boot project that demonstrates how to use Thymeleaf for 
 
 Make sure you have the following installed:
 
-- Java 8 or higher
+- Java 17 or higher
 - Maven
 - Git
 
@@ -33,7 +33,7 @@ You can build and run the project using Maven:
 mvn spring-boot:run
 ```
 
-Once the application is running, you can access it at [http://localhost:8080](http://localhost:8080) in your web browser.
+Once the application is running, you can access it at [http://localhost:8080/home](http://localhost:8080/home) in your web browser.
 
 ## Features
 

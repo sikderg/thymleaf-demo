@@ -63,5 +63,3 @@ Contributions are welcome! If you find any issues or would like to add new featu
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
-
-Make sure to replace placeholders like `your-username` with your actual GitHub username and adjust the project structure and details according to your specific project setup.

@@ -58,7 +58,6 @@ The main files and directories in this project are as follows:
 ## Contributing
 
 Contributions are welcome! If you find any issues or would like to add new features, feel free to open a pull request.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

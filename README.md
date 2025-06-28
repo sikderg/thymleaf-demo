@@ -3,7 +3,7 @@
 ```
 This is a simple Spring Boot project that demonstrates how to use Thymeleaf for server-side HTML rendering.
 
-## Prerequisites
+## Prerequisites 
 
 Make sure you have the following installed:
 
